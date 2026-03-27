@@ -397,3 +397,9 @@ avatar = "https://q2.qlogo.cn/headimg_dl?dst_uin=133834400&spec=140"
 name = "Mashiro Usagi"
 url = "https://daisuke.moe"
 avatar = "https://secure.gravatar.com/avatar/21af46cb6baae2b402c332b949c82ed6?s=140&r=g"
+
+[[blogs]]
+name = "Suica's blog"
+url = "https://suica.dev/"
+avatar = "https://suica.dev/_next/image?url=%2Favatar.jpeg&w=128&q=75"
+description = "鵝的廢文堆"
