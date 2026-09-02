@@ -400,6 +400,12 @@ url = "https://www.aoi-recipes.site/"
 avatar = "https://secure.gravatar.com/avatar/66343ba343f045271824d17bcb7f666c"
 description = "探索赛博烹饪的艺术-日记,自娱自乐与碎碎念"
 
+[[blogs]]
+name = "Nekro's Blog"
+url = "https://blog.nekro.top/"
+avatar = "https://avatars.githubusercontent.com/u/90670998?v=4&s=200"
+description = "Where there is a will, there is a way."
+
 [[nonBlogs]]
 name = "三千院の暗"
 url = "https://moe.lu"
