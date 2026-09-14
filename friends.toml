@@ -406,6 +406,13 @@ url = "https://blog.nekro.top/"
 avatar = "https://avatars.githubusercontent.com/u/90670998?v=4&s=200"
 description = "Where there is a will, there is a way."
 
+[[blogs]]
+name = "深柠"
+url = "https://www.deeplemon.win/"
+avatar = "https://avatars.githubusercontent.com/u/165035744?v=4&s=200"
+description = ""
+
+
 [[nonBlogs]]
 name = "三千院の暗"
 url = "https://moe.lu"
