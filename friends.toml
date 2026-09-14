@@ -403,15 +403,14 @@ description = "探索赛博烹饪的艺术-日记,自娱自乐与碎碎念"
 [[blogs]]
 name = "Nekro's Blog"
 url = "https://blog.nekro.top/"
-avatar = "https://avatars.githubusercontent.com/u/90670998?v=4&s=200"
+avatar = "https://avatars.githubusercontent.com/u/90670998"
 description = "Where there is a will, there is a way."
 
 [[blogs]]
 name = "深柠"
 url = "https://www.deeplemon.win/"
-avatar = "https://avatars.githubusercontent.com/u/165035744?v=4&s=200"
+avatar = "https://avatars.githubusercontent.com/u/165035744"
 description = ""
-
 
 [[nonBlogs]]
 name = "三千院の暗"
@@ -422,3 +421,8 @@ avatar = "https://q2.qlogo.cn/headimg_dl?dst_uin=133834400&spec=140"
 name = "Mashiro Usagi"
 url = "https://daisuke.moe"
 avatar = "https://secure.gravatar.com/avatar/21af46cb6baae2b402c332b949c82ed6"
+
+[[community]]
+name = "萌口组"
+url = "https://www.kou.moe"
+avatar = "https://secure.gravatar.com/avatar/b85d3d8d96249dd3603969a50a1bf15f"
