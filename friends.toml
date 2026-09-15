@@ -24,6 +24,7 @@ hidden = true
 name = "MR158's Blog"
 url = "https://mr158.cn"
 avatar = "https://secure.gravatar.com/avatar/91e432d6e35784b47fe7cc96fb85897d"
+hidden = true
 
 [[blogs]]
 name = "蛋蛋的忧伤"
@@ -34,6 +35,7 @@ avatar = "https://secure.gravatar.com/avatar/c787859a634ea9f67a41ee2799577a16"
 name = "橙的记事本"
 url = "https://sell.moe"
 avatar = "https://secure.gravatar.com/avatar/303504d3ba5b3c1502ec2c5bb3873b3d"
+hidden = true
 
 [[blogs]]
 name = "OXの胡說八道"
@@ -87,6 +89,7 @@ name = "Clancey Lin"
 url = "https://junebluez.com"
 avatar = "https://avatars.githubusercontent.com/u/8045582"
 description = "翻涌在途，风景可艾。"
+hidden = true
 
 [[blogs]]
 name = "Librazy"
@@ -297,6 +300,7 @@ name = "Kirin's Backspace"
 url = "https://9baka.moe"
 avatar = "https://secure.gravatar.com/avatar/24bf9fa4459198c2dd2c482439d46b24"
 description = "六月始めに生まれ、八月終わりに遠のいた"
+hidden = true
 
 [[blogs]]
 name = "新世界的大门"
@@ -372,7 +376,7 @@ description = "Any shortcomings are kindly overlooked."
 
 [[blogs]]
 name = "Catarium"
-url = "https://eofs791.github.io"
+url = "https://catarium.me"
 avatar = "https://avatars.githubusercontent.com/u/91895588"
 description = "见崎的猫箱"
 
