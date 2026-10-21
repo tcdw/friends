@@ -416,6 +416,12 @@ url = "https://www.deeplemon.win/"
 avatar = "https://avatars.githubusercontent.com/u/165035744"
 description = ""
 
+[[blogs]]
+name = "心象蜃気楼"
+url = "https://blog.yayoi.love/"
+avatar = "https://secure.gravatar.com/avatar/0fc72e94b9de843b3f7fba0615acfe0fd3162bf4a502dcff03002f53704fa358"
+description = "心を透写した世界で、僕らは居場所を探した"
+
 [[nonBlogs]]
 name = "三千院の暗"
 url = "https://moe.lu"
