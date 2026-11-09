@@ -419,7 +419,7 @@ description = ""
 [[blogs]]
 name = "涟漪の空岛世界"
 url = "https://www.void-island.com"
-avatar = "https://www.void-island.com/_next/image?url=%2Fauthor_icon.jpg&w=128&q=75"
+avatar = "https://www.void-island.com/author_icon.jpg"
 description = "属于电波系的世界"
 
 [[nonBlogs]]
